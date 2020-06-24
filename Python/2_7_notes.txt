@@ -1,0 +1,9 @@
+Udemy files location:
+C:\Users\8m3xl\Documents\Projects\Coding\Tutorials\Udemy
+
+"python" open python shell in cmd
+"quit()" to exit
+
+
+"jupyter notebook" in cmd launches jupyter notebook. 
+Shift+enter runs cells
